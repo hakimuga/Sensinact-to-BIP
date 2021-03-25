@@ -1,2 +1,2 @@
 # Sensinact-to-BIP
-Gatway code mapped to BIP language
+Gateway code mapped to BIP language
