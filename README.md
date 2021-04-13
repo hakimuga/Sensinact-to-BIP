@@ -7,3 +7,4 @@ The code takes sensinact code and generate a corresponding BIP code
 >          org.xtext.sensinact.sna/src/org/eclipse/sensinact/studio/language/generator/SensinactGenerator.xtend  
 >          
 
+The use of this code requires the authorization from the author ! . 
